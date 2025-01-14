@@ -9,6 +9,7 @@ public class Main {
         Calculadora miCalc = new Calculadora();
         miCalc.setCuartos(4);
         miCalc.setHabitantes(2);
+	    System.out.println("Hola Mundo!");
         System.out.println(miCalc.cantidadDeCuartosPorHabitante());
 
     }
