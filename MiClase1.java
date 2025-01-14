@@ -11,6 +11,7 @@ public class Main {
         miCalc.setHabitantes(2);
 	    System.out.println("Hola Mundo!");
         System.out.println("Como estás");
+        System.out.println("Cambio de Marcelo");
         System.out.println(miCalc.cantidadDeCuartosPorHabitante());
 
     }
